@@ -1,0 +1,1 @@
+Folder de asistencias con descripciones de las clases diarias.
