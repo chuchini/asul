@@ -1,4 +1,4 @@
-# Administración de sistemas UNIX,Linux 2019-2
+# Administración de sistemas UNIX/Linux 2019-2
 # Facultad de ciencias
 # Universidad Nacional Autónoma de México
 
